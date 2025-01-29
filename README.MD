@@ -43,11 +43,3 @@
 ## 📚 Materiais
 
 - https://www.notion.so/PAS-Podcast-AI-Studio-18a8d610a0fd80df8f7dd6bc670eb5ac
-
-
-
-
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
