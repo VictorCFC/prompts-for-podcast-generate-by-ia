@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Learn and Play with Magic Media.png"
     width="300"
 />
 </p>
@@ -32,6 +32,7 @@
 
 - [ChatGPT](https://chat.openai.com/) 
 - [Canva](https://canva.com)
+- [ElevenLabs](https://elevenlabs.io/)
 - [TTSMP3](https://ttsmp3.com/)
 
 ## ✨ Como foi feito ?
